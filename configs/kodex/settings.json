@@ -1,0 +1,51 @@
+{
+  "weights": {
+    "reference_company": 10,
+    "fuzzy_match": 5,
+    "title_match": 5,
+    "sector_match": 3
+  },
+  "fuzzy_threshold": 95.5,
+  "job_title_categories": {
+    "Financial Crime / MLRO / Intelligence / Investigations": [
+      "financial crime", "aml", "mlro", "intelligence", "investigations", "crime", "fraud"
+    ],
+    "Trust and Safety / Law Enforcement / Security / Disclosures": [
+      "trust and safety", "law enforcement", "legal process", "content moderation",
+      "incident response", "disclosures", "platform safety", "government request"
+    ]
+  },
+  "sector_keywords": {
+    "Social Media": ["social media", "platform", "content", "network"],
+    "RegTech": ["compliance", "regtech", "regulatory", "kyc", "aml"],
+    "Telecoms": ["telecom", "carrier", "mobile", "broadband", "network provider"],
+    "Banking": ["bank", "banking", "finance", "financial services"],
+    "Gaming": ["gaming", "game", "esports", "interactive", "video game"],
+    "Crypto": ["crypto", "blockchain", "nft", "web3", "bitcoin", "ethereum"]
+  },
+  "blacklist_terms": [
+    "hearing",
+    "academy",
+    "church",
+    "foundation",
+    "county",
+    "peace",
+    "town of",
+    "school",
+    "ministries",
+    "university"
+  ],
+  "sector_negatives": {
+    "Social Media": [
+      "human rights", "refugees", "ngo", "justice", "non-profit",
+      "city council", "municipality", "training", "coverage", "advocacy"
+    ],
+    "RegTech": ["marketplace", "retail", "wholesale", "alibaba", "booking"],
+    "Telecoms": ["airways", "university", "foundation", "finance", "clinic", "health", "space", "ngo", "charity"],
+    "Banking": ["school", "peace", "church", "foundation", "pharma", "university", "ministry", "ngo", "charity"],
+    "Gaming": ["aerospace", "military", "education", "telecom", "peace", "research", "ngo", "charity"],
+    "Crypto": ["defense", "aerospace", "space", "peace", "school", "airline", "foundation", "ngo", "charity"]
+  }
+,
+  "client_name": "kodex"
+}
