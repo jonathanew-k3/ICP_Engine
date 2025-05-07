@@ -21,3 +21,5 @@ data/*
 # Allow config files to be tracked
 !configs/**/settings.json
 !configs/**/company_map.json
+
+output_data/
