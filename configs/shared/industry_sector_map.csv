@@ -1,0 +1,686 @@
+Industry,Sector
+"Farming, Ranching, Forestry","Farming, Ranching, Forestry"
+Farming,"Farming, Ranching, Forestry"
+Ranching and Fisheries,"Farming, Ranching, Forestry"
+Forestry and Logging,"Farming, Ranching, Forestry"
+Ranching,"Farming, Ranching, Forestry"
+Fisheries,"Farming, Ranching, Forestry"
+"Oil, Gas, and Mining","Oil, Gas, and Mining"
+Oil and Gas,"Oil, Gas, and Mining"
+Mining,"Oil, Gas, and Mining"
+Coal Mining,"Oil, Gas, and Mining"
+Metal Ore Mining,"Oil, Gas, and Mining"
+Nonmetallic Mineral Mining,"Oil, Gas, and Mining"
+Oil Extraction,"Oil, Gas, and Mining"
+Natural Gas Extraction,"Oil, Gas, and Mining"
+Utilities,Utilities
+Natural Gas Distribution,Utilities
+"Water, Waste, Steam, and Air Conditioning Services",Utilities
+Electric Power Generation,Utilities
+"Electric Power Transmission, Control, and Distribution",Utilities
+Water Supply and Irrigation Systems,Utilities
+Steam and Air-Conditioning Supply,Utilities
+Hydroelectric Power Generation,Utilities
+Fossil Fuel Electric Power Generation,Utilities
+Nuclear Electric Power Generation,Utilities
+Solar Electric Power Generation,Utilities
+Wind Electric Power Generation,Utilities
+Geothermal Electric Power Generation,Utilities
+Biomass Electric Power Generation,Utilities
+Renewable Energy Power Generation,Utilities
+Construction,Construction
+Building Construction,Construction
+Civil Engineering,Construction
+Specialty Trade Contractors,Construction
+Residential Building Construction,Construction
+Nonresidential Building Construction,Construction
+Utility System Construction,Construction
+Subdivision of Land,Construction
+"Highway, Street, and Bridge Construction",Construction
+Building Structure and Exterior Contractors,Construction
+Building Equipment Contractors,Construction
+Building Finishing Contractors,Construction
+Manufacturing,Manufacturing
+Food and Beverage Manufacturing,Manufacturing
+Textile Manufacturing,Manufacturing
+Apparel Manufacturing,Manufacturing
+Leather Product Manufacturing,Manufacturing
+Animal Feed Manufacturing,Manufacturing
+Sugar and Confectionery Product Manufacturing,Manufacturing
+Fruit and Vegetable Preserves Manufacturing,Manufacturing
+Dairy Product Manufacturing,Manufacturing
+Meat Products Manufacturing,Manufacturing
+Seafood Product Manufacturing,Manufacturing
+Baked Goods Manufacturing,Manufacturing
+Beverage Manufacturing,Manufacturing
+Tobacco Manufacturing,Manufacturing
+Fashion Accessories Manufacturing,Manufacturing
+Footwear Manufacturing,Manufacturing
+Breweries,Manufacturing
+Wineries,Manufacturing
+Distilleries,Manufacturing
+Women's Handbag Manufacturing,Manufacturing
+Wood Product Manufacturing,Manufacturing
+Paper and Forest Product Manufacturing,Manufacturing
+Printing Services,Manufacturing
+Oil and Coal Product Manufacturing,Manufacturing
+Chemical Manufacturing,Manufacturing
+Plastics and Rubber Product Manufacturing,Manufacturing
+"Glass, Ceramics and Concrete Manufacturing",Manufacturing
+Chemical Raw Materials Manufacturing,Manufacturing
+Artificial Rubber and Synthetic Fiber Manufacturing,Manufacturing
+Agricultural Chemical Manufacturing,Manufacturing
+Pharmaceutical Manufacturing,Manufacturing
+"Paint, Coating, and Adhesive Manufacturing",Manufacturing
+Plastics Manufacturing,Manufacturing
+Rubber Products Manufacturing,Manufacturing
+Clay and Refractory Products Manufacturing,Manufacturing
+Glass Product Manufacturing,Manufacturing
+Lime and Gypsum Products Manufacturing,Manufacturing
+Abrasives and Nonmetallic Minerals Manufacturing,Manufacturing
+Soap and Cleaning Product Manufacturing,Manufacturing
+Personal Care Product Manufacturing,Manufacturing
+Packaging and Containers Manufacturing,Manufacturing
+Robot Manufacturing,Manufacturing
+Primary Metal Manufacturing,Manufacturing
+Fabricated Metal Products,Manufacturing
+Machinery Manufacturing,Manufacturing
+Computers and Electronics Manufacturing,Manufacturing
+"Appliances, Electrical, and Electronics Manufacturing",Manufacturing
+Transportation Equipment Manufacturing,Manufacturing
+Furniture and Home Furnishings Manufacturing,Manufacturing
+Cutlery and Handtool Manufacturing,Manufacturing
+Architectural and Structural Metal Manufacturing,Manufacturing
+"Boilers, Tanks, and Shipping Container Manufacturing",Manufacturing
+Construction Hardware Manufacturing,Manufacturing
+Spring and Wire Product Manufacturing,Manufacturing
+Turned Products and Fastener Manufacturing,Manufacturing
+Metal Treatments,Manufacturing
+"Metal Valve, Ball, and Roller Manufacturing",Manufacturing
+"Agriculture, Construction, Mining Machinery Manufacturing",Manufacturing
+Industrial Machinery Manufacturing,Manufacturing
+Commercial and Service Industry Machinery Manufacturing,Manufacturing
+HVAC and Refrigeration Equipment Manufacturing,Manufacturing
+Metalworking Machinery Manufacturing,Manufacturing
+Engines and Power Transmission Equipment Manufacturing,Manufacturing
+Computer Hardware Manufacturing,Manufacturing
+Communications Equipment Manufacturing,Manufacturing
+Audio and Video Equipment Manufacturing,Manufacturing
+Renewable Energy Equipment Manufacturing,Manufacturing
+Semiconductor Manufacturing,Manufacturing
+Measuring and Control Instrument Manufacturing,Manufacturing
+Magnetic and Optical Media Manufacturing,Manufacturing
+Electric Lighting Equipment Manufacturing,Manufacturing
+Household Appliance Manufacturing,Manufacturing
+Electrical Equipment Manufacturing,Manufacturing
+Motor Vehicle Manufacturing,Manufacturing
+Motor Vehicle Parts Manufacturing,Manufacturing
+Aviation and Aerospace Component Manufacturing,Manufacturing
+Railroad Equipment Manufacturing,Manufacturing
+Shipbuilding,Manufacturing
+Household and Institutional Furniture Manufacturing,Manufacturing
+Office Furniture and Fixtures Manufacturing,Manufacturing
+Mattress and Blinds Manufacturing,Manufacturing
+Medical Equipment Manufacturing,Manufacturing
+Renewable Energy Semiconductor Manufacturing,Manufacturing
+Sporting Goods Manufacturing,Manufacturing
+Climate Technology Product Manufacturing,Manufacturing
+Defense and Space Manufacturing,Manufacturing
+Automation Machinery Manufacturing,Manufacturing
+Wholesale,Wholesale
+Internet Marketplace Platforms,Wholesale
+Wholesale Motor Vehicles and Parts,Wholesale
+Wholesale Furniture and Home Furnishings,Wholesale
+Wholesale Building Materials,Wholesale
+Wholesale Metals and Minerals,Wholesale
+"Wholesale Appliances, Electrical, and Electronics",Wholesale
+"Wholesale Hardware, Plumbing, Heating Equipment",Wholesale
+Wholesale Machinery,Wholesale
+Wholesale Paper Products,Wholesale
+Wholesale Drugs and Sundries,Wholesale
+Wholesale Apparel and Sewing Supplies,Wholesale
+Wholesale Food and Beverage,Wholesale
+Wholesale Raw Farm Products,Wholesale
+Wholesale Chemical and Allied Products,Wholesale
+Wholesale Petroleum and Petroleum Products,Wholesale
+Wholesale Alcoholic Beverages,Wholesale
+Wholesale Photography Equipment and Supplies,Wholesale
+Wholesale Computer Equipment,Wholesale
+Wholesale Recyclable Materials,Wholesale
+Wholesale Luxury Goods and Jewelry,Wholesale
+Wholesale Footwear,Wholesale
+Wholesale Import and Export,Wholesale
+Retail,Retail
+Retail Furniture and Home Furnishings,Retail
+"Retail Appliances, Electrical, and Electronic Equipment",Retail
+Retail Building Materials and Garden Equipment,Retail
+Food and Beverage Retail,Retail
+Retail Health and Personal Care Products,Retail
+Retail Gasoline,Retail
+Retail Apparel and Fashion,Retail
+Retail Motor Vehicles,Retail
+Retail Luxury Goods and Jewelry,Retail
+Retail Groceries,Retail
+Retail Pharmacies,Retail
+Retail Books and Printed News,Retail
+Retail Florists,Retail
+Retail Office Supplies and Gifts,Retail
+Retail Recyclable Materials & Used Merchandise,Retail
+Online and Mail Order Retail,Retail
+Retail Musical Instruments,Retail
+Retail Office Equipment,Retail
+Retail Art Supplies,Retail
+"Transportation, Logistics, Supply Chain and Storage","Transportation, Logistics, Supply Chain and Storage"
+Airlines and Aviation,"Transportation, Logistics, Supply Chain and Storage"
+Rail Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Maritime Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Truck Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Ground Passenger Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Pipeline Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Sightseeing Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Urban Transit Services,"Transportation, Logistics, Supply Chain and Storage"
+Interurban and Rural Bus Services,"Transportation, Logistics, Supply Chain and Storage"
+Taxi and Limousine Services,"Transportation, Logistics, Supply Chain and Storage"
+School and Employee Bus Services,"Transportation, Logistics, Supply Chain and Storage"
+Shuttles and Special Needs Transportation Services,"Transportation, Logistics, Supply Chain and Storage"
+Postal Services,"Transportation, Logistics, Supply Chain and Storage"
+Freight and Package Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Warehousing and Storage,"Transportation, Logistics, Supply Chain and Storage"
+"Technology, Information and Media","Technology, Information and Media"
+Book and Periodical Publishing,"Technology, Information and Media"
+"Movies, Videos and Sound","Technology, Information and Media"
+"Technology, Information and Internet","Technology, Information and Media"
+Social Networking Platforms,"Technology, Information and Media"
+Media and Telecommunications,"Technology, Information and Media"
+Broadcast Media Production and Distribution,"Technology, Information and Media"
+Telecommunications,"Technology, Information and Media"
+Data Infrastructure and Analytics,"Technology, Information and Media"
+Information Services,"Technology, Information and Media"
+Software Development,"Technology, Information and Media"
+Movies and Sound Recording,"Technology, Information and Media"
+Sound Recording,"Technology, Information and Media"
+Radio and Television Broadcasting,"Technology, Information and Media"
+Cable and Satellite Programming,"Technology, Information and Media"
+Telecommunications Carriers,"Technology, Information and Media"
+Satellite Telecommunications,"Technology, Information and Media"
+Retail Art Dealers,"Technology, Information and Media"
+Newspaper Publishing,"Technology, Information and Media"
+Periodical Publishing,"Technology, Information and Media"
+Book Publishing,"Technology, Information and Media"
+Media Production,"Technology, Information and Media"
+Animation and Post-production,"Technology, Information and Media"
+Sheet Music Publishing,"Technology, Information and Media"
+Blockchain Services,"Technology, Information and Media"
+Climate Data and Analytics,"Technology, Information and Media"
+Libraries,"Technology, Information and Media"
+Internet Publishing,"Technology, Information and Media"
+Embedded Software Products,"Technology, Information and Media"
+Mobile Computing Software Products,"Technology, Information and Media"
+Desktop Computing Software Products,"Technology, Information and Media"
+Computer Networking Products,"Technology, Information and Media"
+Computer Games,"Technology, Information and Media"
+Wireless Services,"Technology, Information and Media"
+Mobile Gaming Apps,"Technology, Information and Media"
+Online Audio and Video Media,"Technology, Information and Media"
+Blogs,"Technology, Information and Media"
+Internet News,"Technology, Information and Media"
+Financial Services,Financial Services
+Credit Intermediation,Financial Services
+Capital Markets,Financial Services
+Insurance,Financial Services
+Funds and Trusts,Financial Services
+Securities and Commodity Exchanges,Financial Services
+Investment Management,Financial Services
+Insurance Carriers,Financial Services
+Insurance and Employee Benefit Funds,Financial Services
+Trusts and Estates,Financial Services
+Banking,Financial Services
+Savings Institutions,Financial Services
+Loan Brokers,Financial Services
+Investment Banking,Financial Services
+Venture Capital and Private Equity Principals,Financial Services
+Investment Advice,Financial Services
+Insurance Agencies and Brokerages,Financial Services
+"Claims Adjusting, Actuarial Services",Financial Services
+Pension Funds,Financial Services
+International Trade and Development,Financial Services
+Accessible Architecture and Design,Financial Services
+Services for Renewable Energy,Financial Services
+Robotics Engineering,Financial Services
+Real Estate and Equipment Rental Services,Real Estate and Equipment Rental Services
+Leasing Real Estate,Real Estate and Equipment Rental Services
+Equipment Rental Services,Real Estate and Equipment Rental Services
+Leasing Real Estate Agents and Brokers,Real Estate and Equipment Rental Services
+Consumer Goods Rental,Real Estate and Equipment Rental Services
+Commercial and Industrial Equipment Rental,Real Estate and Equipment Rental Services
+Leasing Residential Real Estate,Real Estate and Equipment Rental Services
+Leasing Non-residential Real Estate,Real Estate and Equipment Rental Services
+Professional Services,Professional Services
+Legal Services,Professional Services
+Accounting,Professional Services
+Design Services,Professional Services
+IT Services and IT Consulting,Professional Services
+Business Consulting and Services,Professional Services
+Research Services,Professional Services
+Marketing Services,Professional Services
+Law Practice,Professional Services
+Architecture and Planning,Professional Services
+Interior Design,Professional Services
+Graphic Design,Professional Services
+Environmental Services,Professional Services
+Think Tanks,Professional Services
+Public Relations and Communications Services,Professional Services
+Market Research,Professional Services
+Photography,Professional Services
+Translation and Localization,Professional Services
+Veterinary Services,Professional Services
+Surveying and Mapping Services,Professional Services
+Engineering Services,Professional Services
+IT System Custom Software Development,Professional Services
+IT System Design Services,Professional Services
+IT System Operations and Maintenance,Professional Services
+Strategic Management Services,Professional Services
+Human Resources Services,Professional Services
+Advertising Services,Professional Services
+Operations Consulting,Professional Services
+Nanotechnology Research,Professional Services
+Biotechnology Research,Professional Services
+Computer and Network Security,Professional Services
+IT System Training and Support,Professional Services
+IT System Data Services,Professional Services
+IT System Installation and Disposal,Professional Services
+Digital Accessibility Services,Professional Services
+IT System Testing and Evaluation,Professional Services
+Outsourcing and Offshoring Consulting,Professional Services
+Government Relations Services,Professional Services
+Holding Companies,Holding Companies
+Administrative and Support Services,Administrative and Support Services
+Office Administration,Administrative and Support Services
+Facilities Services,Administrative and Support Services
+Staffing and Recruiting,Administrative and Support Services
+Travel Arrangements,Administrative and Support Services
+Security and Investigations,Administrative and Support Services
+Waste Collection,Administrative and Support Services
+Waste Treatment and Disposal,Administrative and Support Services
+Temporary Help Services,Administrative and Support Services
+Writing and Editing,Administrative and Support Services
+Telephone Call Centers,Administrative and Support Services
+Collection Agencies,Administrative and Support Services
+Security Systems Services,Administrative and Support Services
+Janitorial Services,Administrative and Support Services
+Events Services,Administrative and Support Services
+Executive Search Services,Administrative and Support Services
+Fundraising,Administrative and Support Services
+Security Guards and Patrol Services,Administrative and Support Services
+Landscaping Services,Administrative and Support Services
+Education,Education
+Primary and Secondary Education,Education
+Higher Education,Education
+Professional Training and Coaching,Education
+Technical and Vocational Training,Education
+Secretarial Schools,Education
+Fine Arts Schools,Education
+Sports and Recreation Instruction,Education
+Language Schools,Education
+Cosmetology and Barber Schools,Education
+Flight Training,Education
+E-Learning Providers,Education
+Hospitals and Health Care,Hospitals and Health Care
+Medical Practices,Hospitals and Health Care
+Hospitals,Hospitals and Health Care
+Nursing Homes and Residential Care Facilities,Hospitals and Health Care
+Physicians,Hospitals and Health Care
+Dentists,Hospitals and Health Care
+Medical and Diagnostic Laboratories,Hospitals and Health Care
+Home Health Care Services,Hospitals and Health Care
+Individual and Family Services,Hospitals and Health Care
+Community Services,Hospitals and Health Care
+Vocational Rehabilitation Services,Hospitals and Health Care
+Child Day Care Services,Hospitals and Health Care
+Chiropractors,Hospitals and Health Care
+Optometrists,Hospitals and Health Care
+Mental Health Care,Hospitals and Health Care
+"Physical, Occupational and Speech Therapists",Hospitals and Health Care
+Family Planning Centers,Hospitals and Health Care
+Outpatient Care Centers,Hospitals and Health Care
+Ambulance Services,Hospitals and Health Care
+Services for the Elderly and Disabled,Hospitals and Health Care
+Emergency and Relief Services,Hospitals and Health Care
+Alternative Medicine,Hospitals and Health Care
+Entertainment Providers,Entertainment Providers
+Performing Arts and Spectator Sports,Entertainment Providers
+"Museums, Historical Sites, and Zoos",Entertainment Providers
+Recreational Facilities,Entertainment Providers
+Performing Arts,Entertainment Providers
+Spectator Sports,Entertainment Providers
+Artists and Writers,Entertainment Providers
+Amusement Parks and Arcades,Entertainment Providers
+Gambling Facilities and Casinos,Entertainment Providers
+Theater Companies,Entertainment Providers
+Dance Companies,Entertainment Providers
+Musicians,Entertainment Providers
+Circuses and Magic Shows,Entertainment Providers
+Museums,Entertainment Providers
+Historical Sites,Entertainment Providers
+Zoos and Botanical Gardens,Entertainment Providers
+Golf Courses and Country Clubs,Entertainment Providers
+Skiing Facilities,Entertainment Providers
+Wellness and Fitness Services,Entertainment Providers
+Sports Teams and Clubs,Entertainment Providers
+Racetracks,Entertainment Providers
+Accomodation Services,Accomodation Services
+Food and Beverage Services,Accomodation Services
+Hospitality,Accomodation Services
+"Bars, Taverns, and Nightclubs",Accomodation Services
+Restaurants,Accomodation Services
+Hotels and Motels,Accomodation Services
+"Bed-and-Breakfasts, Hostels, Homestays",Accomodation Services
+Caterers,Accomodation Services
+Mobile Food Services,Accomodation Services
+Consumer Services,Consumer Services
+Repair and Maintenance,Consumer Services
+Personal and Laundry Services,Consumer Services
+Household Services,Consumer Services
+Vehicle Repair and Maintenance,Consumer Services
+Electronic and Precision Equipment Maintenance,Consumer Services
+Commercial and Industrial Machinery Maintenance,Consumer Services
+Personal Care Services,Consumer Services
+Laundry and Drycleaning Services,Consumer Services
+Religious Institutions,Consumer Services
+Philanthropic Fundraising Services,Consumer Services
+Civic and Social Organizations,Consumer Services
+Political Organizations,Consumer Services
+Reupholstery and Furniture Repair,Consumer Services
+Footwear and Leather Goods Repair,Consumer Services
+Pet Services,Consumer Services
+Industry Associations,Consumer Services
+Professional Organizations,Consumer Services
+Non-profit Organizations,Consumer Services
+Government Administration,Government Administration
+Public Policy Offices,Government Administration
+Health and Human Services,Government Administration
+Environmental Quality Programs,Government Administration
+Housing and Community Development,Government Administration
+Economic Programs,Government Administration
+Military and International Affairs,Government Administration
+Space Research and Technology,Government Administration
+Executive Offices,Government Administration
+Legislative Offices,Government Administration
+Administration of Justice,Government Administration
+Law Enforcement,Government Administration
+Public Safety,Government Administration
+Education Administration Programs,Government Administration
+Public Health,Government Administration
+Public Assistance Programs,Government Administration
+"Air, Water, and Waste Program Management",Government Administration
+Conservation Programs,Government Administration
+Community Development and Urban Planning,Government Administration
+Armed Forces,Government Administration
+International Affairs,Government Administration
+Courts of Law,Government Administration
+Correctional Institutions,Government Administration
+Fire Protection,Government Administration
+Housing Programs,Government Administration
+Transportation Programs,Government Administration
+Utilities Administration,Government Administration
+Real Estate,Real Estate and Equipment Rental Services
+Automotive,Retail
+Apparel and Fashion,Retail
+Renewables & Environment,Utilities
+Non-profit Organization Management,Consumer Services
+Business Intelligence Platforms,"Technology, Information and Media"
+Education Management,Education
+Cosmetics,retail
+Design,Professional Services
+Research,Professional Services
+Information Technology and Services,"Technology, Information and Media"
+Mechanical or Industrial Engineering,Professional Services
+Food & Beverages,Retail
+Online Media,"Technology, Information and Media"
+Industrial Automation,Manufacturing
+Government Relations,Government Administration
+Consumer Goods,Retail
+Building Materials,Construction
+Entertainment,Entertainment Providers
+Defense & Space,Government Administration
+Medical Devices,Hospitals and Health Care
+Biotechnology,Professional Services
+Packaging and Containers,Manufacturing
+Food Production,Manufacturing
+Human Resources,Professional Services
+Business Supplies and Equipment,Manufacturing
+"Leisure, Travel & Tourism",Administrative and Support Services
+"Health, Wellness and Fitness",Entertainment Providers
+Transportation/Trucking/Railroad,"Transportation, Logistics, Supply Chain and Storage"
+Veterinary,Professional Services
+Paper and Forest Products,Manufacturing
+Aviation & Aerospace,"Transportation, Logistics, Supply Chain and Storage"
+Furniture,Retail
+Sporting Goods,Retail
+Maritime,"Transportation, Logistics, Supply Chain and Storage"
+Consumer Electronics,Retail
+Outsourcing/Offshoring,Professional Services
+Ranching & Fisheries,"Farming, Ranching, Forestry"
+Forestry & Logging,"Farming, Ranching, Forestry"
+"Oil, Gas, & Mining","Oil, Gas, and Mining"
+Oil & Gas,"Oil, Gas, and Mining"
+"Water, Waste, Steam, & Air Conditioning Services",Utilities
+"Electric Power Transmission, Control, & Distribution",Utilities
+Water Supply & Irrigation Systems,Utilities
+Steam & Air-Conditioning Supply,Utilities
+"Highway, Street, & Bridge Construction",Construction
+Building Structure & Exterior Contractors,Construction
+Food & Beverage Manufacturing,Manufacturing
+Sugar & Confectionery Product Manufacturing,Manufacturing
+Fruit & Vegetable Preserves Manufacturing,Manufacturing
+Paper & Forest Product Manufacturing,Manufacturing
+Oil & Coal Product Manufacturing,Manufacturing
+Plastics & Rubber Product Manufacturing,Manufacturing
+"Glass, Ceramics & Concrete Manufacturing",Manufacturing
+Artificial Rubber & Synthetic Fiber Manufacturing,Manufacturing
+"Paint, Coating, & Adhesive Manufacturing",Manufacturing
+Clay & Refractory Products Manufacturing,Manufacturing
+Lime & Gypsum Products Manufacturing,Manufacturing
+Abrasives & Nonmetallic Minerals Manufacturing,Manufacturing
+Soap & Cleaning Product Manufacturing,Manufacturing
+Packaging & Containers Manufacturing,Manufacturing
+Computers & Electronics Manufacturing,Manufacturing
+"Appliances, Electrical, & Electronics Manufacturing",Manufacturing
+Furniture & Home Furnishings Manufacturing,Manufacturing
+Cutlery & Handtool Manufacturing,Manufacturing
+Architectural & Structural Metal Manufacturing,Manufacturing
+"Boilers, Tanks, & Shipping Container Manufacturing",Manufacturing
+Spring & Wire Product Manufacturing,Manufacturing
+Turned Products & Fastener Manufacturing,Manufacturing
+"Metal Valve, Ball, & Roller Manufacturing",Manufacturing
+Commercial & Service Industry Machinery Manufacturing,Manufacturing
+HVAC & Refrigeration Equipment Manufacturing,Manufacturing
+Engines & Power Transmission Equipment Manufacturing,Manufacturing
+Audio & Video Equipment Manufacturing,Manufacturing
+Measuring & Control Instrument Manufacturing,Manufacturing
+Magnetic & Optical Media Manufacturing,Manufacturing
+Aviation & Aerospace Component Manufacturing,Manufacturing
+Household & Institutional Furniture Manufacturing,Manufacturing
+Office Furniture & Fixtures Manufacturing,Manufacturing
+Mattress & Blinds Manufacturing,Manufacturing
+Defense & Space Manufacturing,Manufacturing
+Wholesale Motor Vehicles & Parts,Wholesale
+Wholesale Furniture & Home Furnishings,Wholesale
+Wholesale Metals & Minerals,Wholesale
+"Wholesale Appliances, Electrical, & Electronics",Wholesale
+Wholesale Drugs & Sundries,Wholesale
+Wholesale Apparel & Sewing Supplies,Wholesale
+Wholesale Food & Beverage,Wholesale
+Wholesale Chemical & Allied Products,Wholesale
+Wholesale Petroleum & Petroleum Products,Wholesale
+Wholesale Photography Equipment & Supplies,Wholesale
+Wholesale Luxury Goods & Jewelry,Wholesale
+Wholesale Import & Export,Wholesale
+Retail Furniture & Home Furnishings,Retail
+"Retail Appliances, Electrical, & Electronic Equipment",Retail
+Retail Building Materials & Garden Equipment,Retail
+Food & Beverage Retail,Retail
+Retail Health & Personal Care Products,Retail
+Retail Apparel & Fashion,Retail
+Retail Luxury Goods & Jewelry,Retail
+Retail Books & Printed News,Retail
+Retail Office Supplies & Gifts,Retail
+Retail Recyclable Materials and Used Merchandise,Retail
+Online & Mail Order Retail,Retail
+"Transportation, Logistics, Supply Chain & Storage","Transportation, Logistics, Supply Chain and Storage"
+Airlines & Aviation,"Transportation, Logistics, Supply Chain and Storage"
+Interurban & Rural Bus Services,"Transportation, Logistics, Supply Chain and Storage"
+Taxi & Limousine Services,"Transportation, Logistics, Supply Chain and Storage"
+School & Employee Bus Services,"Transportation, Logistics, Supply Chain and Storage"
+Shuttles & Special Needs Transportation Services,"Transportation, Logistics, Supply Chain and Storage"
+Freight & Package Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Warehousing & Storage,"Transportation, Logistics, Supply Chain and Storage"
+"Technology, Information & Media","Technology, Information and Media"
+Book & Periodical Publishing,"Technology, Information and Media"
+"Movies, Videos & Sound","Technology, Information and Media"
+"Technology, Information & Internet","Technology, Information and Media"
+Media & Telecommunications,"Technology, Information and Media"
+Broadcast Media Production & Distribution,"Technology, Information and Media"
+Data Infrastructure & Analytics,"Technology, Information and Media"
+Movies & Sound Recording,"Technology, Information and Media"
+Radio & Television Broadcasting,"Technology, Information and Media"
+Cable & Satellite Programming,"Technology, Information and Media"
+Animation & Post-production,"Technology, Information and Media"
+Climate Data & Analytics,"Technology, Information and Media"
+Online Audio & Video Media,"Technology, Information and Media"
+Funds & Trusts,Financial Services
+Securities & Commodity Exchanges,Financial Services
+Insurance & Employee Benefit Funds,Financial Services
+Trusts & Estates,Financial Services
+Venture Capital & Private Equity Principals,Financial Services
+Insurance Agencies & Brokerages,Financial Services
+International Trade & Development,Financial Services
+Accessible Architecture & Design,Financial Services
+Real Estate & Equipment Rental Services,Real Estate and Equipment Rental Services
+Leasing Real Estate Agents & Brokers,Real Estate and Equipment Rental Services
+Commercial & Industrial Equipment Rental,Real Estate and Equipment Rental Services
+IT Services & IT Consulting,Professional Services
+Business Consulting & Services,Professional Services
+Architecture & Planning,Professional Services
+Public Relations & Communications Services,Professional Services
+Translation & Localization,Professional Services
+Surveying & Mapping Services,Professional Services
+IT System Operations & Maintenance,Professional Services
+Computer & Network Security,Professional Services
+IT System Training & Support,Professional Services
+IT System Installation & Disposal,Professional Services
+IT System Testing & Evaluation,Professional Services
+Outsourcing & Offshoring Consulting,Professional Services
+Administrative & Support Services,Administrative and Support Services
+Staffing & Recruiting,Administrative and Support Services
+Security & Investigations,Administrative and Support Services
+Waste Treatment & Disposal,Administrative and Support Services
+Writing & Editing,Administrative and Support Services
+Security Guards & Patrol Services,Administrative and Support Services
+Primary & Secondary Education,Education
+Professional Training & Coaching,Education
+Technical & Vocational Training,Education
+Sports & Recreation Instruction,Education
+Cosmetology & Barber Schools,Education
+Hospitals & Health Care,Hospitals and Health Care
+Nursing Homes & Residential Care Facilities,Hospitals and Health Care
+Medical & Diagnostic Laboratories,Hospitals and Health Care
+Individual & Family Services,Hospitals and Health Care
+"Physical, Occupational & Speech Therapists",Hospitals and Health Care
+Services for the Elderly & Disabled,Hospitals and Health Care
+Emergency & Relief Services,Hospitals and Health Care
+Performing Arts & Spectator Sports,Entertainment Providers
+"Museums, Historical Sites, & Zoos",Entertainment Providers
+Artists & Writers,Entertainment Providers
+Amusement Parks & Arcades,Entertainment Providers
+Gambling Facilities & Casinos,Entertainment Providers
+Circuses & Magic Shows,Entertainment Providers
+Zoos & Botanical Gardens,Entertainment Providers
+Golf Courses & Country Clubs,Entertainment Providers
+Wellness & Fitness Services,Entertainment Providers
+Sports Teams & Clubs,Entertainment Providers
+Food & Beverage Services,Accomodation Services
+"Bars, Taverns, & Nightclubs",Accomodation Services
+Hotels & Motels,Accomodation Services
+Repair & Maintenance,Consumer Services
+Personal & Laundry Services,Consumer Services
+Vehicle Repair & Maintenance,Consumer Services
+Electronic & Precision Equipment Maintenance,Consumer Services
+Commercial & Industrial Machinery Maintenance,Consumer Services
+Laundry & Drycleaning Services,Consumer Services
+Civic & Social Organizations,Consumer Services
+Reupholstery & Furniture Repair,Consumer Services
+Footwear & Leather Goods Repair,Consumer Services
+Health & Human Services,Government Administration
+Housing & Community Development,Government Administration
+Military & International Affairs,Government Administration
+Space Research & Technology,Government Administration
+"Air, Water, & Waste Program Management",Government Administration
+Community Development & Urban Planning,Government Administration
+Apparel & Fashion,Retail
+Renewables and Environment,Utilities
+Information Technology & Services,"Technology, Information and Media"
+Food and Beverages,Retail
+Defense and Space,Government Administration
+Packaging & Containers,Manufacturing
+Business Supplies & Equipment,Manufacturing
+"Leisure, Travel and Tourism",Administrative and Support Services
+"Health, Wellness & Fitness",Entertainment Providers
+Paper & Forest Products,Manufacturing
+Aviation and Aerospace,"Transportation, Logistics, Supply Chain and Storage"
+Medical Device,Hospitals and Health Care
+Business Content,Professional Services
+Program Development,Professional Services
+Philanthropy,Consumer Services
+"Movies, Videos, and Sound","Technology, Information and Media"
+Data Security Software Products,"Technology, Information and Media"
+E-learning,Education
+Computer Hardware,"Technology, Information and Media"
+Alternative Dispute Resolution,Professional Services
+Public Policy,Government Administration
+Wine & Spirits,Retail
+Import & Export,Wholesale
+Computer Networking,"Technology, Information and Media"
+Real Estate Agents and Brokers,Real Estate and Equipment Rental Services
+Luxury Goods & Jewelry,Retail
+Warehousing,"Transportation, Logistics, Supply Chain and Storage"
+Music,Entertainment Providers
+Fine Art,Entertainment Providers
+Arts & Crafts,Entertainment Providers
+Smart Meter Manufacturing,Manufacturing
+Semiconductors,Manufacturing
+Horticulture,Professional Services
+Fuel Cell Manufacturing,Manufacturing
+Tobacco,Retail
+Commercial Real Estate,Real Estate and Equipment Rental Services
+Regenerative Design,Professional Services
+Accommodation and Food Services,Accomodation Services
+Animation,"Technology, Information and Media"
+Luxury Goods and Jewelry,Retail
+Crypto AML Infrastructure,Financial Services
+Blockchain Analytics,Financial Services
+Cryptocurrency Exchanges,Financial Services
+Crypto Wallet Infrastructure,Financial Services
+Domain Name Registrars,"Technology, Information and Media"
+DNS Infrastructure,"Technology, Information and Media"
+FinTech Onboarding Platforms,Financial Services
+Embedded Finance Providers,Financial Services
+RegTech Platforms,Financial Services
+Online Gaming Platforms,"Technology, Information and Media"
+Game Developer Tools,"Technology, Information and Media"
+Gaming Anti-Fraud Systems,"Technology, Information and Media"
+Crypto Exchange,Financial Services
+Crypto Trading Platform,Financial Services
+Blockchain Infrastructure,"Technology, Information and Media"
+Crypto Wallet,Financial Services
+Web3 Payments,Financial Services
+DeFi Platform,Financial Services
+NFT Marketplace,"Technology, Information and Media"
+Blockchain Analytics,"Technology, Information and Media"
+Crypto Compliance & AML Tools,Financial Services
+Crypto Custody Solutions,Financial Services
+Tokenization Platform,Financial Services
+Layer 1 Blockchain,"Technology, Information and Media"
+Layer 2 Blockchain,"Technology, Information and Media"
+Crypto Lending / Borrowing,Financial Services
+DAO Infrastructure,"Technology, Information and Media"
