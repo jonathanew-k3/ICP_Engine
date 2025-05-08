@@ -11,6 +11,7 @@ __pycache__/
 *.DS_Store
 .vscode/
 .idea/
+*.sb-*
 
 # Ignore client-specific data
 data/*
@@ -21,5 +22,16 @@ data/*
 # Allow config files to be tracked
 !configs/**/settings.json
 !configs/**/company_map.json
-
+!configs/**/priority_industries.json
 output_data/
+
+# Ignore old scoring exports or accidental commits
+Scored_Leads.csv
+
+# Ignore dotenv environment configs if used
+.env
+
+# Ignore temporary or backup files
+*.bak
+*.tmp
+*~
