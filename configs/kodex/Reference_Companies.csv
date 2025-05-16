@@ -1,0 +1,787 @@
+Company,Industry,Sector
+CoinCatch,Crypto,Financial Services
+Ledger,Crypto,Financial Services
+HitBTC,Crypto,Financial Services
+Antpool,Crypto,Financial Services
+Wise,Crypto,Financial Services
+Phemex,Crypto,Financial Services
+21Shares,Crypto,Financial Services
+Agricultural Bank of China,Banking,Financial Services
+Alpha Bank,Banking,Financial Services
+ANZ,Banking,Financial Services
+Axis Bank,Banking,Financial Services
+Banco Santander,Banking,Financial Services
+Bangkok Bank,Banking,Financial Services
+Bank Mandiri,Banking,Financial Services
+Bank of America,Banking,Financial Services
+Bank of Baroda,Banking,Financial Services
+Bank of China,Banking,Financial Services
+Bank of Communications,Banking,Financial Services
+Bank of Cyprus,Banking,Financial Services
+Bank of East Asia,Banking,Financial Services
+Bank of Ireland,Banking,Financial Services
+Bank of Montreal,Banking,Financial Services
+Bank of the Philippine Islands,Banking,Financial Services
+Bank Pekao,Banking,Financial Services
+Bank Rakyat Indonesia,Banking,Financial Services
+Barclays,Banking,Financial Services
+BMO,Banking,Financial Services
+BNP Paribas,Banking,Financial Services
+CaixaBank,Banking,Financial Services
+Canara Bank,Banking,Financial Services
+China Citic Bank,Banking,Financial Services
+China Construction Bank,Banking,Financial Services
+China Merchants Bank,Banking,Financial Services
+China Minsheng Bank,Banking,Financial Services
+Citigroup,Banking,Financial Services
+Commonwealth Bank of Australia,Banking,Financial Services
+Credit Suisse,Banking,Financial Services
+Danske Bank,Banking,Financial Services
+DBS Bank,Banking,Financial Services
+Deutsche Bank,Banking,Financial Services
+DNB,Banking,Financial Services
+Eurobank Ergasias,Banking,Financial Services
+Fidelity,Banking,Financial Services
+Gazprombank,Banking,Financial Services
+Goldman Sachs,Banking,Financial Services
+Hana Bank,Banking,Financial Services
+Handelsbanken,Banking,Financial Services
+HDFC Bank,Banking,Financial Services
+HSBC,Banking,Financial Services
+Huaxia Bank,Banking,Financial Services
+ICBC,Banking,Financial Services
+ICICI Bank,Banking,Financial Services
+IDFC FIRST Bank,Banking,Financial Services
+Industrial Bank,Banking,Financial Services
+Industrial Bank of Korea,Banking,Financial Services
+ING,Banking,Financial Services
+Intesa Sanpaolo,Banking,Financial Services
+JPMorgan Chase,Banking,Financial Services
+Kasikornbank,Banking,Financial Services
+KBC Group,Banking,Financial Services
+Kookmin Bank,Banking,Financial Services
+Kotak Mahindra Bank,Banking,Financial Services
+Krung Thai Bank,Banking,Financial Services
+Maybank,Banking,Financial Services
+Mitsubishi UFJ Financial Group,Banking,Financial Services
+Mizuho Financial Group,Banking,Financial Services
+Morgan Stanley,Banking,Financial Services
+National Australia Bank,Banking,Financial Services
+NH Bank,Banking,Financial Services
+Nordea,Banking,Financial Services
+OCBC Bank,Banking,Financial Services
+OTP Bank,Banking,Financial Services
+Ping An Bank,Banking,Financial Services
+Piraeus Bank,Banking,Financial Services
+PKO Bank Polski,Banking,Financial Services
+Postal Savings Bank of China,Banking,Financial Services
+Punjab National Bank,Banking,Financial Services
+Raiffeisen Bank International,Banking,Financial Services
+Royal Bank of Canada,Banking,Financial Services
+Santander,Banking,Financial Services
+Sberbank,Banking,Financial Services
+Scotiabank,Banking,Financial Services
+SEB,Banking,Financial Services
+Security Bank,Banking,Financial Services
+Shanghai Pudong Development Bank,Banking,Financial Services
+Shinhan Bank,Banking,Financial Services
+Societe Generale,Banking,Financial Services
+Standard Chartered,Banking,Financial Services
+State Bank of India,Banking,Financial Services
+Sumitomo Mitsui Financial Group,Banking,Financial Services
+Swedbank,Banking,Financial Services
+Toronto-Dominion Bank,Banking,Financial Services
+UBS,Banking,Financial Services
+UniCredit,Banking,Financial Services
+Union Bank of India,Banking,Financial Services
+UOB,Banking,Financial Services
+VTB Bank,Banking,Financial Services
+Wells Fargo,Banking,Financial Services
+Westpac,Banking,Financial Services
+Woori Bank,Banking,Financial Services
+Yes Bank,Banking,Financial Services
+Alibaba Cloud (HiChina),Domain Name Registrars,"Technology, Information and Media"
+Bluehost,Domain Name Registrars,"Technology, Information and Media"
+Crazy Domains,Domain Name Registrars,"Technology, Information and Media"
+Domain.com,Domain Name Registrars,"Technology, Information and Media"
+Dynadot,Domain Name Registrars,"Technology, Information and Media"
+EuroDNS,Domain Name Registrars,"Technology, Information and Media"
+Gandi.net,Domain Name Registrars,"Technology, Information and Media"
+GMO Internet Group,Domain Name Registrars,"Technology, Information and Media"
+GoDaddy,Domain Name Registrars,"Technology, Information and Media"
+HOSTINGER,Domain Name Registrars,"Technology, Information and Media"
+IONOS,Domain Name Registrars,"Technology, Information and Media"
+IONOS (1&1),Domain Name Registrars,"Technology, Information and Media"
+Name.com,Domain Name Registrars,"Technology, Information and Media"
+Namecheap,Domain Name Registrars,"Technology, Information and Media"
+NameSilo,Domain Name Registrars,"Technology, Information and Media"
+Network Solutions,Domain Name Registrars,"Technology, Information and Media"
+OVHcloud,Domain Name Registrars,"Technology, Information and Media"
+Tucows,Domain Name Registrars,"Technology, Information and Media"
+Atomic,Automotive,FinTech
+EarnIn,E-learning,FinTech
+Liberis,Libraries,FinTech
+Mesh Payments,Web3 Payments,FinTech
+Remitly,Retail,FinTech
+Electronic Arts,Computer Games,"Technology, Information and Media"
+Epic,Computer Games,"Technology, Information and Media"
+Epic Games,Computer Games,"Technology, Information and Media"
+Facepunch Studios (Garry's Mod),Computer Games,"Technology, Information and Media"
+Frontier Developments (Planet Coaster),Computer Games,"Technology, Information and Media"
+Game Jolt,Computer Games,"Technology, Information and Media"
+Itch.io,Computer Games,"Technology, Information and Media"
+Linden Lab (Second Life),Computer Games,"Technology, Information and Media"
+Manticore Games,Computer Games,"Technology, Information and Media"
+Media Molecule (Dreams),Computer Games,"Technology, Information and Media"
+Media Molecule (LittleBigPlanet),Computer Games,"Technology, Information and Media"
+Microsoft Gaming,Computer Games,"Technology, Information and Media"
+Mod.io,Computer Games,"Technology, Information and Media"
+Mojang,Computer Games,"Technology, Information and Media"
+NetEase Games,Computer Games,"Technology, Information and Media"
+Nintendo,Computer Games,"Technology, Information and Media"
+Rec Room,Computer Games,"Technology, Information and Media"
+Riot Games,Computer Games,"Technology, Information and Media"
+Roblox,Computer Games,"Technology, Information and Media"
+Sony Interactive Entertainment,Computer Games,"Technology, Information and Media"
+Take-Two Interactive,Computer Games,"Technology, Information and Media"
+Tencent,Computer Games,"Technology, Information and Media"
+Ubisoft,Computer Games,"Technology, Information and Media"
+Unity,Computer Games,"Technology, Information and Media"
+Valve,Computer Games,"Technology, Information and Media"
+Yahaha Studios,Computer Games,"Technology, Information and Media"
+ZEPETO,Computer Games,"Technology, Information and Media"
+Aleph Alpha,"Technology, Information and Internet","Technology, Information and Media"
+Alphabet,"Technology, Information and Internet","Technology, Information and Media"
+Amazon,"Technology, Information and Internet","Technology, Information and Media"
+Apple,"Technology, Information and Internet","Technology, Information and Media"
+Cisco,"Technology, Information and Internet","Technology, Information and Media"
+Cohere,"Technology, Information and Internet","Technology, Information and Media"
+DeepMind,"Technology, Information and Internet","Technology, Information and Media"
+Gcore,"Technology, Information and Internet","Technology, Information and Media"
+Google,"Technology, Information and Internet","Technology, Information and Media"
+Graphcore,"Technology, Information and Internet","Technology, Information and Media"
+Huawei Cloud,"Technology, Information and Internet","Technology, Information and Media"
+Konduit AI,"Technology, Information and Internet","Technology, Information and Media"
+LightOn,"Technology, Information and Internet","Technology, Information and Media"
+Meta,"Technology, Information and Internet","Technology, Information and Media"
+Microsoft,"Technology, Information and Internet","Technology, Information and Media"
+Mistral AI,"Technology, Information and Internet","Technology, Information and Media"
+Netflix,"Technology, Information and Internet","Technology, Information and Media"
+Nvidia,"Technology, Information and Internet","Technology, Information and Media"
+OpenAI,"Technology, Information and Internet","Technology, Information and Media"
+Palantir,"Technology, Information and Internet","Technology, Information and Media"
+Proton,"Technology, Information and Internet","Technology, Information and Media"
+Runway ML,"Technology, Information and Internet","Technology, Information and Media"
+Samsung SDS,"Technology, Information and Internet","Technology, Information and Media"
+SenseTime,"Technology, Information and Internet","Technology, Information and Media"
+SK Hynix,"Technology, Information and Internet","Technology, Information and Media"
+Skiff,"Technology, Information and Internet","Technology, Information and Media"
+SpaceX,"Technology, Information and Internet","Technology, Information and Media"
+Stability AI,"Technology, Information and Internet","Technology, Information and Media"
+Tesla,"Technology, Information and Internet","Technology, Information and Media"
+Threema,"Technology, Information and Internet","Technology, Information and Media"
+Tresorit,"Technology, Information and Internet","Technology, Information and Media"
+Tuta (Tutanota),"Technology, Information and Internet","Technology, Information and Media"
+YTL AI Cloud,"Technology, Information and Internet","Technology, Information and Media"
+Stellar Development Foundation,Software Development,RegTech
+Airchat,Social Networking Platforms,"Technology, Information and Media"
+Baidu Tieba,Social Networking Platforms,"Technology, Information and Media"
+BAND,Social Networking Platforms,"Technology, Information and Media"
+BeReal,Social Networking Platforms,"Technology, Information and Media"
+Bilibili,Social Networking Platforms,"Technology, Information and Media"
+Bluesky,Social Networking Platforms,"Technology, Information and Media"
+Bumble,Social Networking Platforms,"Technology, Information and Media"
+Caffeine,Social Networking Platforms,"Technology, Information and Media"
+Crunchyroll,Social Networking Platforms,"Technology, Information and Media"
+Daze,Social Networking Platforms,"Technology, Information and Media"
+DAZN,Social Networking Platforms,"Technology, Information and Media"
+Discord,Social Networking Platforms,"Technology, Information and Media"
+Dispo,Social Networking Platforms,"Technology, Information and Media"
+Facebook,Social Networking Platforms,"Technology, Information and Media"
+FanCode,Social Networking Platforms,"Technology, Information and Media"
+Gaia Online,Social Networking Platforms,"Technology, Information and Media"
+Instagram,Social Networking Platforms,"Technology, Information and Media"
+KakaoTalk,Social Networking Platforms,"Technology, Information and Media"
+LaLiga+,Social Networking Platforms,"Technology, Information and Media"
+Lemmy,Social Networking Platforms,"Technology, Information and Media"
+Lemon8,Social Networking Platforms,"Technology, Information and Media"
+LINE,Social Networking Platforms,"Technology, Information and Media"
+LinkedIn,Social Networking Platforms,"Technology, Information and Media"
+Made With Friends,Social Networking Platforms,"Technology, Information and Media"
+Match Group,Social Networking Platforms,"Technology, Information and Media"
+Mixi,Social Networking Platforms,"Technology, Information and Media"
+Mumsnet,Social Networking Platforms,"Technology, Information and Media"
+Niconico,Social Networking Platforms,"Technology, Information and Media"
+Noplace,Social Networking Platforms,"Technology, Information and Media"
+Partiful,Social Networking Platforms,"Technology, Information and Media"
+Peanut,Social Networking Platforms,"Technology, Information and Media"
+Pinterest,Social Networking Platforms,"Technology, Information and Media"
+Quest,Social Networking Platforms,"Technology, Information and Media"
+Reddit,Social Networking Platforms,"Technology, Information and Media"
+Snapchat,Social Networking Platforms,"Technology, Information and Media"
+Substack Notes,Social Networking Platforms,"Technology, Information and Media"
+Sunroom,Social Networking Platforms,"Technology, Information and Media"
+Supernova,Social Networking Platforms,"Technology, Information and Media"
+Telegram,Social Networking Platforms,"Technology, Information and Media"
+Threads,Social Networking Platforms,"Technology, Information and Media"
+TikTok,Social Networking Platforms,"Technology, Information and Media"
+Twitter,Social Networking Platforms,"Technology, Information and Media"
+Viber,Social Networking Platforms,"Technology, Information and Media"
+VK,Social Networking Platforms,"Technology, Information and Media"
+Wattpad,Social Networking Platforms,"Technology, Information and Media"
+WeAre8,Social Networking Platforms,"Technology, Information and Media"
+WeChat,Social Networking Platforms,"Technology, Information and Media"
+WhatsApp,Social Networking Platforms,"Technology, Information and Media"
+X,Social Networking Platforms,"Technology, Information and Media"
+Yahoo,Social Networking Platforms,"Technology, Information and Media"
+Yik Yak,Social Networking Platforms,"Technology, Information and Media"
+YouTube,Social Networking Platforms,"Technology, Information and Media"
+Zalo,Social Networking Platforms,"Technology, Information and Media"
+A1 Telekom Austria,Telecommunications,"Technology, Information and Media"
+AT&T,Telecommunications,"Technology, Information and Media"
+BT,Telecommunications,"Technology, Information and Media"
+Charter Communications,Telecommunications,"Technology, Information and Media"
+Comcast,Telecommunications,"Technology, Information and Media"
+Cox,Telecommunications,"Technology, Information and Media"
+CYTA,Telecommunications,"Technology, Information and Media"
+Deutsche Telekom,Telecommunications,"Technology, Information and Media"
+DNA,Telecommunications,"Technology, Information and Media"
+Elisa,Telecommunications,"Technology, Information and Media"
+GO,Telecommunications,"Technology, Information and Media"
+Magenta Telekom,Telecommunications,"Technology, Information and Media"
+MEO,Telecommunications,"Technology, Information and Media"
+NOS,Telecommunications,"Technology, Information and Media"
+NTT,Telecommunications,"Technology, Information and Media"
+One (4iG),Telecommunications,"Technology, Information and Media"
+Orange,Telecommunications,"Technology, Information and Media"
+PrimeTel,Telecommunications,"Technology, Information and Media"
+Proximus,Telecommunications,"Technology, Information and Media"
+T-Mobile,Telecommunications,"Technology, Information and Media"
+Tele2,Telecommunications,"Technology, Information and Media"
+Telefonica,Telecommunications,"Technology, Information and Media"
+Telenet,Telecommunications,"Technology, Information and Media"
+Telia Company,Telecommunications,"Technology, Information and Media"
+Verizon,Telecommunications,"Technology, Information and Media"
+Vodafone,Telecommunications,"Technology, Information and Media"
+Yettel,Telecommunications,"Technology, Information and Media"
+6D Technologies,Telecommunications,"Technology, Information and Media"
+A1 International Business,Telecommunications,"Technology, Information and Media"
+ACT Enterprise,Telecommunications,"Technology, Information and Media"
+Aberdare Technologies Pvt Ltd,Telecommunications,"Technology, Information and Media"
+AddSecure,Telecommunications,"Technology, Information and Media"
+Airtel Business,Telecommunications,"Technology, Information and Media"
+Airtel Cares,Telecommunications,"Technology, Information and Media"
+Alcatel-Lucent,Telecommunications,"Technology, Information and Media"
+Alcatel-Lucent Enterprise,Telecommunications,"Technology, Information and Media"
+Alcatel-Lucent Shanghai Bell,Telecommunications,"Technology, Information and Media"
+Allinq,Telecommunications,"Technology, Information and Media"
+American Tower Asia,Telecommunications,"Technology, Information and Media"
+American Tower Europe,Telecommunications,"Technology, Information and Media"
+Aster Pvt Ltd,Telecommunications,"Technology, Information and Media"
+Avaya Austria,Telecommunications,"Technology, Information and Media"
+Avaya Switzerland,Telecommunications,"Technology, Information and Media"
+BQ,Telecommunications,"Technology, Information and Media"
+BT Group,Telecommunications,"Technology, Information and Media"
+BT for global business,Telecommunications,"Technology, Information and Media"
+Bharat Sanchar Nigam Limited,Telecommunications,"Technology, Information and Media"
+CTDI Europe,Telecommunications,"Technology, Information and Media"
+Cellnex Telecom,Telecommunications,"Technology, Information and Media"
+Cellnex UK,Telecommunications,"Technology, Information and Media"
+Cellutions Limited,Telecommunications,"Technology, Information and Media"
+CityFibre,Telecommunications,"Technology, Information and Media"
+Console Connect,Telecommunications,"Technology, Information and Media"
+Daisy Communications,Telecommunications,"Technology, Information and Media"
+Data Select,Telecommunications,"Technology, Information and Media"
+Department of Telecommunications ( DOT ),Telecommunications,"Technology, Information and Media"
+Deutsche Telekom Design & Customer Experience,Telecommunications,"Technology, Information and Media"
+Deutsche Telekom Digital Labs,Telecommunications,"Technology, Information and Media"
+Deutsche Telekom: Group Partnering & Devices (GPD),Telecommunications,"Technology, Information and Media"
+Ericsson,Telecommunications,"Technology, Information and Media"
+Ericsson Networks,Telecommunications,"Technology, Information and Media"
+Ericsson Software,Telecommunications,"Technology, Information and Media"
+Ethra Tech,Telecommunications,"Technology, Information and Media"
+Euphony Benelux,Telecommunications,"Technology, Information and Media"
+Eurofins,Telecommunications,"Technology, Information and Media"
+Eutelsat Group,Telecommunications,"Technology, Information and Media"
+Exotel,Telecommunications,"Technology, Information and Media"
+Focus Group,Telecommunications,"Technology, Information and Media"
+Forme Communications Technology India Ltd.,Telecommunications,"Technology, Information and Media"
+GCX,Telecommunications,"Technology, Information and Media"
+GSORBA English,Telecommunications,"Technology, Information and Media"
+GTL Limited,Telecommunications,"Technology, Information and Media"
+GTT DACH,Telecommunications,"Technology, Information and Media"
+Gurman Industries,Telecommunications,"Technology, Information and Media"
+HFCL Limited,Telecommunications,"Technology, Information and Media"
+HONA Telecom Group,Telecommunications,"Technology, Information and Media"
+HSIS(P) Ltd,Telecommunications,"Technology, Information and Media"
+HTIS Telecom,Telecommunications,"Technology, Information and Media"
+Hexatronic,Telecommunications,"Technology, Information and Media"
+Hrvatski Telekom,Telecommunications,"Technology, Information and Media"
+Huawei,Telecommunications,"Technology, Information and Media"
+Huawei Cloud Europe,Telecommunications,"Technology, Information and Media"
+Huawei Mobile Services MENA,Telecommunications,"Technology, Information and Media"
+Huawei Network,Telecommunications,"Technology, Information and Media"
+Huijin Electronic India Pvt Ltd,Telecommunications,"Technology, Information and Media"
+Hycomms,Telecommunications,"Technology, Information and Media"
+Hyper Communications Pte Ltd,Telecommunications,"Technology, Information and Media"
+ITI Ltd.,Telecommunications,"Technology, Information and Media"
+Idea cellular,Telecommunications,"Technology, Information and Media"
+Inmarsat,Telecommunications,"Technology, Information and Media"
+Intec,Telecommunications,"Technology, Information and Media"
+Ishan Technologies,Telecommunications,"Technology, Information and Media"
+Italtel,Telecommunications,"Technology, Information and Media"
+JAZZPLAT ESPAA SL,Telecommunications,"Technology, Information and Media"
+JHB Group,Telecommunications,"Technology, Information and Media"
+JKL INDIA SOLUTIONS,Telecommunications,"Technology, Information and Media"
+Jio,Telecommunications,"Technology, Information and Media"
+KPN Eurorings B.V.,Telecommunications,"Technology, Information and Media"
+KPN Spain,Telecommunications,"Technology, Information and Media"
+Liberty Global,Telecommunications,"Technology, Information and Media"
+Lyca Group,Telecommunications,"Technology, Information and Media"
+MAP GROUP (UK) LIMITED,Telecommunications,"Technology, Information and Media"
+MTS - Sistema Shyam Teleservices Ltd,Telecommunications,"Technology, Information and Media"
+Matrix Cellular (International) Services Pvt. Ltd.,Telecommunications,"Technology, Information and Media"
+Mitel Iberia&Italy,Telecommunications,"Technology, Information and Media"
+NEC Smart Cities,Telecommunications,"Technology, Information and Media"
+Netkom Communication LLC,Telecommunications,"Technology, Information and Media"
+Network X,Telecommunications,"Technology, Information and Media"
+O2 (Telefnica UK),Telecommunications,"Technology, Information and Media"
+OFG,Telecommunications,"Technology, Information and Media"
+Oracle / Telecommunication Company,Telecommunications,"Technology, Information and Media"
+Orange Communications SA,Telecommunications,"Technology, Information and Media"
+PROSE Technologies,Telecommunications,"Technology, Information and Media"
+Pratap Technocrats Pvt Ltd,Telecommunications,"Technology, Information and Media"
+Proximus Group,Telecommunications,"Technology, Information and Media"
+Racal Telecom,Telecommunications,"Technology, Information and Media"
+Redu Space Services,Telecommunications,"Technology, Information and Media"
+Reecomps Teleservices Pvt. Ltd.,Telecommunications,"Technology, Information and Media"
+Relacom,Telecommunications,"Technology, Information and Media"
+Reliance Communications,Telecommunications,"Technology, Information and Media"
+Reliance Jio -Saurashtra (region),Telecommunications,"Technology, Information and Media"
+Rohde & Schwarz,Telecommunications,"Technology, Information and Media"
+"SES Africa, Middle East & Central Asia",Telecommunications,"Technology, Information and Media"
+SES Satellites,Telecommunications,"Technology, Information and Media"
+SK China,Telecommunications,"Technology, Information and Media"
+Singtel,Telecommunications,"Technology, Information and Media"
+Spice Mobiles Limited,Telecommunications,"Technology, Information and Media"
+StarHub,Telecommunications,"Technology, Information and Media"
+TCIL,Telecommunications,"Technology, Information and Media"
+TDC Solutions,Telecommunications,"Technology, Information and Media"
+TIM,Telecommunications,"Technology, Information and Media"
+TalkTalk,Telecommunications,"Technology, Information and Media"
+TalkTalk Wholesale Services,Telecommunications,"Technology, Information and Media"
+Talkpool AG,Telecommunications,"Technology, Information and Media"
+Tata Communications,Telecommunications,"Technology, Information and Media"
+Tata Tele Business Services,Telecommunications,"Technology, Information and Media"
+Tejas Networks,Telecommunications,"Technology, Information and Media"
+Tele2 IoT,Telecommunications,"Technology, Information and Media"
+Telecel Global,Telecommunications,"Technology, Information and Media"
+Telecel Group,Telecommunications,"Technology, Information and Media"
+Telefnica,Telecommunications,"Technology, Information and Media"
+Telefnica Germany,Telecommunications,"Technology, Information and Media"
+Telekom Romania Mobile,Telecommunications,"Technology, Information and Media"
+Telenet Business,Telecommunications,"Technology, Information and Media"
+Telenor,Telecommunications,"Technology, Information and Media"
+Telent Technology Services Ltd,Telecommunications,"Technology, Information and Media"
+Telesonic Networks Limited,Telecommunications,"Technology, Information and Media"
+TeraHop,Telecommunications,"Technology, Information and Media"
+The Royal Corps of Signals,Telecommunications,"Technology, Information and Media"
+Tikona Broadband - India,Telecommunications,"Technology, Information and Media"
+"Tongyu Communication Equipment Co.,Ltd",Telecommunications,"Technology, Information and Media"
+Tulip Telecom,Telecommunications,"Technology, Information and Media"
+Turner Fibre Optic,Telecommunications,"Technology, Information and Media"
+VEON,Telecommunications,"Technology, Information and Media"
+VOXI by Vodafone,Telecommunications,"Technology, Information and Media"
+Vedang Cellular Services Pvt. Ltd,Telecommunications,"Technology, Information and Media"
+Vi Business India,Telecommunications,"Technology, Information and Media"
+Videocon Smart Solutions,Telecommunications,"Technology, Information and Media"
+Virgin Media,Telecommunications,"Technology, Information and Media"
+Virgin Media Business,Telecommunications,"Technology, Information and Media"
+Virgin Media O2 Business,Telecommunications,"Technology, Information and Media"
+Vivo Karnataka,Telecommunications,"Technology, Information and Media"
+Vivo Madhya Pradesh,Telecommunications,"Technology, Information and Media"
+Vodafone Idea Limited,Telecommunications,"Technology, Information and Media"
+Vsun Mobile,Telecommunications,"Technology, Information and Media"
+Weiwo Communication Private Limited,Telecommunications,"Technology, Information and Media"
+West Unified Communications Services (formerly known as InterCall Asia Pacific),Telecommunications,"Technology, Information and Media"
+XAD Technologies LLC,Telecommunications,"Technology, Information and Media"
+Xad Technologies,Telecommunications,"Technology, Information and Media"
+Xtra Telecom S.L.U,Telecommunications,"Technology, Information and Media"
+ZTE Austria,Telecommunications,"Technology, Information and Media"
+ZTE Corporation,Telecommunications,"Technology, Information and Media"
+airtel,Telecommunications,"Technology, Information and Media"
+cablex AG,Telecommunications,"Technology, Information and Media"
+e& UAE,Telecommunications,"Technology, Information and Media"
+freenet AG,Telecommunications,"Technology, Information and Media"
+murphx Innovative Solutions (now part of Daisy Group),Telecommunications,"Technology, Information and Media"
+vivo Middle East,Telecommunications,"Technology, Information and Media"
+101domain,Domain Name Registrars,"Technology, Information and Media"
+Gandi,Domain Name Registrars,"Technology, Information and Media"
+Internet.bs,Domain Name Registrars,"Technology, Information and Media"
+123-reg,Domain Name Registrars,"Technology, Information and Media"
+Namecheap EU,Domain Name Registrars,"Technology, Information and Media"
+Arsys,Domain Name Registrars,"Technology, Information and Media"
+Key-Systems,Domain Name Registrars,"Technology, Information and Media"
+1&1 IONOS,Domain Name Registrars,"Technology, Information and Media"
+Netregistry,Domain Name Registrars,"Technology, Information and Media"
+Instra Corporation,Domain Name Registrars,"Technology, Information and Media"
+ResellerClub,Domain Name Registrars,"Technology, Information and Media"
+HostAfrica,Domain Name Registrars,"Technology, Information and Media"
+TrueHost,Domain Name Registrars,"Technology, Information and Media"
+AsiaRegistry,Domain Name Registrars,"Technology, Information and Media"
+WebNIC,Domain Name Registrars,"Technology, Information and Media"
+NetAfrica,Domain Name Registrars,"Technology, Information and Media"
+Register.it,Domain Name Registrars,"Technology, Information and Media"
+Nominalia,Domain Name Registrars,"Technology, Information and Media"
+Freedomain.pro,Domain Name Registrars,"Technology, Information and Media"
+Dynadot Asia,Domain Name Registrars,"Technology, Information and Media"
+MarkMonitor EMEA,Domain Name Registrars,"Technology, Information and Media"
+CD Projekt Red,Computer Games,"Technology, Information and Media"
+Bandai Namco Entertainment,Computer Games,"Technology, Information and Media"
+Sega Europe,Computer Games,"Technology, Information and Media"
+Paradox Interactive,Computer Games,"Technology, Information and Media"
+GOG.com,Computer Games,"Technology, Information and Media"
+Team17,Computer Games,"Technology, Information and Media"
+Focus Entertainment,Computer Games,"Technology, Information and Media"
+Koch Media / Deep Silver,Computer Games,"Technology, Information and Media"
+Remedy Entertainment,Computer Games,"Technology, Information and Media"
+IO Interactive,Computer Games,"Technology, Information and Media"
+Rovio Entertainment,Computer Games,"Technology, Information and Media"
+Pearl Abyss,Computer Games,"Technology, Information and Media"
+Nexon Europe,Computer Games,"Technology, Information and Media"
+Gameloft,Computer Games,"Technology, Information and Media"
+Miniclip,Computer Games,"Technology, Information and Media"
+Wargaming.net,Computer Games,"Technology, Information and Media"
+THQ Nordic,Computer Games,"Technology, Information and Media"
+Supercell,Computer Games,"Technology, Information and Media"
+Ninja Theory,Computer Games,"Technology, Information and Media"
+Rebellion,Computer Games,"Technology, Information and Media"
+Milestone srl,Computer Games,"Technology, Information and Media"
+Nacon,Computer Games,"Technology, Information and Media"
+Funcom,Computer Games,"Technology, Information and Media"
+Tencent Europe (Riot EU),Computer Games,"Technology, Information and Media"
+G2 Esports,Computer Games,"Technology, Information and Media"
+Fnatic,Computer Games,"Technology, Information and Media"
+Airbnb,Software Development,"Technology, Information and Media"
+Expedia,Advertising Services,Professional Services
+Trip.com,"Technology, Information and Internet","Technology, Information and Media"
+Trivago,Software Development,"Technology, Information and Media"
+Agoda,Software Development,"Technology, Information and Media"
+Kayak,"Technology, Information and Internet","Technology, Information and Media"
+Skyscanner,Internet Publishing,"Technology, Information and Media"
+Hopper,Software Development,"Technology, Information and Media"
+Priceline,"Technology, Information and Internet","Technology, Information and Media"
+GetYourGuide,Software Development,"Technology, Information and Media"
+Omio,Software Development,"Technology, Information and Media"
+Trainline,"Technology, Information and Internet","Technology, Information and Media"
+Uber,Internet Marketplace Platforms,Wholesale
+Lyft,Ground Passenger Transportation,"Transportation, Logistics, Supply Chain and Storage"
+Bolt,Software Development,"Technology, Information and Media"
+BlaBlaCar,"Technology, Information and Internet","Technology, Information and Media"
+Cabify,Software Development,"Technology, Information and Media"
+Grab,Software Development,"Technology, Information and Media"
+Vrbo,"Technology, Information and Internet","Technology, Information and Media"
+Plum Guide,"Leisure, Travel & Tourism",Administrative and Support Services
+Tujia,"Technology, Information and Internet","Technology, Information and Media"
+Sonder,Hospitality,Accomodation Services
+Klook,Software Development,"Technology, Information and Media"
+Viator,Travel Arrangements,Administrative and Support Services
+Eventbrite,Software Development,"Technology, Information and Media"
+Goibibo,Travel Arrangements,Administrative and Support Services
+MakeMyTrip,"Technology, Information and Internet","Technology, Information and Media"
+Hostelworld,Travel Arrangements,Administrative and Support Services
+Rome2Rio,"Technology, Information and Internet","Technology, Information and Media"
+Lastminute.com,Software Development,"Technology, Information and Media"
+Hotwire,Horticulture,Consumer Platform
+ChainUp,Crypto,"Technology, Information and Media"
+Localtrade.cc,Crypto,Financial Services
+Kryptono Exchange,Crypto,Financial Services
+Batonex,Crypto,Financial Services
+Galaxy Capital,IT Services and IT Consulting,Professional Services
+BitTok,Crypto,Financial Services
+Prof-IT Blockchain,Crypto,"Technology, Information and Media"
+TideBit | Fiat to Crypto Exchange,Crypto,Financial Services
+Ingenico,Crypto,Financial Services
+BingX,Crypto,Financial Services
+Amber Group,Crypto,Financial Services
+CoinPayments,Crypto,Financial Services
+Wirex,Crypto,Financial Services
+Concordium,Crypto,"Technology, Information and Media"
+BCB Group,Crypto,Financial Services
+BitForex,Crypto,Financial Services
+Kaiko,Crypto,Financial Services
+Alchemy Pay,Crypto,Financial Services
+IQFinex,Financial Services,Financial Services
+TokenBetter,Financial Services,Financial Services
+BlockEx,Financial Services,Financial Services
+Scalable Solutions,Financial Services,Financial Services
+CoinsBank - Blockchain bank of the future,Financial Services,Financial Services
+Freemarket,Financial Services,Financial Services
+ACX International,Blockchain Services,"Technology, Information and Media"
+imToken,Internet Publishing,"Technology, Information and Media"
+Boboo Exchange,Financial Services,Financial Services
+Whalet,Financial Services,Financial Services
+BitOffer Official,Financial Services,Financial Services
+Bitop Cryptocurrency Exchange,Financial Services,Financial Services
+Kun International Digital Technology Limited,Financial Services,Financial Services
+UCBI Banking,Blockchain Services,"Technology, Information and Media"
+Coinstore,Financial Services,Financial Services
+M-DAQ Global,Financial Services,Financial Services
+smartTrade Technologies,Software Development,"Technology, Information and Media"
+bitcastle,"Technology, Information and Internet","Technology, Information and Media"
+Liquid,Financial Services,Financial Services
+SOCASH PTE LTD (Acquired by NIUM),Banking,Financial Services
+TUM Blockchain Club,Blockchain Services,"Technology, Information and Media"
+WEEX,Financial Services,Financial Services
+Microcoins,Financial Services,Financial Services
+Bux Coins,Financial Services,Financial Services
+Payasian.io,International Trade and Development,Financial Services
+AlpineChain.xyz,"Technology, Information and Internet","Technology, Information and Media"
+TOP 100 Exchange limited,Information Services,"Technology, Information and Media"
+Advancer,"Technology, Information and Internet","Technology, Information and Media"
+Beosin,Blockchain Services,"Technology, Information and Media"
+Inka Ventures,IT Services and IT Consulting,Professional Services
+Vanshi Global,Blockchain Services,"Technology, Information and Media"
+Kimera - safe bridge to crypto,Financial Services,Financial Services
+AEX Global,"Technology, Information and Internet","Technology, Information and Media"
+FXT TOKEN,Financial Services,Financial Services
+EMURGO,Blockchain Services,"Technology, Information and Media"
+Octobank,Banking,Financial Services
+GSR,Financial Services,Financial Services
+Wintermute,Financial Services,Financial Services
+BVNK,Financial Services,Financial Services
+Flowdesk,Capital Markets,Financial Services
+WizzFinancial,Financial Services,Financial Services
+ezbob,Financial Services,Financial Services
+IFX Payments,Financial Services,Financial Services
+Bitsane,Financial Services,Financial Services
+Everscale Network,Blockchain Services,"Technology, Information and Media"
+Mpowa,Renewables & Environment,Utilities
+Web 3.0 UK,Blockchain Services,"Technology, Information and Media"
+LemoChain,Software Development,"Technology, Information and Media"
+7online,Capital Markets,Financial Services
+TransferMate Global Payments,Financial Services,Financial Services
+Vauld,Financial Services,Financial Services
+PRIMAFELICITAS,Blockchain Services,"Technology, Information and Media"
+Equaverse,Blockchain Services,"Technology, Information and Media"
+DevvE,Financial Services,Financial Services
+Payawe Inc,Financial Services,Financial Services
+StormGain,Financial Services,Financial Services
+CryptoBLK,Blockchain Services,"Technology, Information and Media"
+PXN,"Technology, Information and Internet","Technology, Information and Media"
+Ecrox Exchange,Blockchain Services,"Technology, Information and Media"
+ZBG Exchange,Financial Services,Financial Services
+Fincy,IT Services and IT Consulting,Professional Services
+Payset,Financial Services,Financial Services
+Bitcoin Suisse AG,Financial Services,Financial Services
+MiFinity,Financial Services,Financial Services
+FaviTrade,Investment Management,Financial Services
+EasyEuro,Financial Services,Financial Services
+AMLBot,Software Development,"Technology, Information and Media"
+TRON DAO,"Technology, Information and Internet","Technology, Information and Media"
+Algorand Foundation,IT Services and IT Consulting,Professional Services
+IXFI | Gen 3.0 Exchange,Financial Services,Financial Services
+B4B Payments - A Banking Circle Group Company,Financial Services,Financial Services
+Griffex,Financial Services,Financial Services
+Coin8 Exchange,Blockchain Services,"Technology, Information and Media"
+Dragon Incorporation,Financial Services,Financial Services
+DecimalChain,Information Technology and Services,"Technology, Information and Media"
+IDCM,Financial Services,Financial Services
+Octangle FX,Financial Services,Financial Services
+ONE,Financial Services,Financial Services
+Ontology,Blockchain Services,"Technology, Information and Media"
+Oraichain Labs,Blockchain Services,"Technology, Information and Media"
+Hubi Exchange Alliance,Financial Services,Financial Services
+ONERWAY,Financial Services,Financial Services
+DasCoin Official,"Technology, Information and Internet","Technology, Information and Media"
+KVB Global,Financial Services,Financial Services
+Ebury,Financial Services,Financial Services
+SwissBorg,Financial Services,Financial Services
+B2C2,Financial Services,Financial Services
+Lumon,Financial Services,Financial Services
+swissmoney,Financial Services,Financial Services
+CITEX,Financial Services,Financial Services
+Bitget Academy,Financial Services,Financial Services
+Ethereum Pink,Financial Services,Financial Services
+Apex Ltd,Investment Management,Financial Services
+CYS Global Remit Pte Ltd,Financial Services,Financial Services
+Travelex,Financial Services,Financial Services
+AZA Finance,Financial Services,Financial Services
+Two,Financial Services,Financial Services
+Orbital,Financial Services,Financial Services
+EVO Payments International GmbH,Financial Services,Financial Services
+OnWallet,IT Services and IT Consulting,Professional Services
+FXOpen,Financial Services,Financial Services
+citema systems GmbH,IT Services and IT Consulting,Professional Services
+Bitlink Capital,Financial Services,Financial Services
+BW.com,Banking,Financial Services
+stablecoin.org,Financial Services,Financial Services
+Alttex Consortium,Design Services,Professional Services
+COINBETA,Financial Services,Financial Services
+AltBank,Financial Services,Financial Services
+3S Money,Financial Services,Financial Services
+LTP,Financial Services,Financial Services
+HamBit,Financial Services,Financial Services
+Taskize,Financial Services,Financial Services
+EQONEX,Financial Services,Financial Services
+ETERNYZE AG,"Technology, Information and Internet","Technology, Information and Media"
+Metaco,Software Development,"Technology, Information and Media"
+Currencies Direct,Financial Services,Financial Services
+KuCoin Official coin Listings,Financial Services,Financial Services
+FamiChain Network,Blockchain Services,"Technology, Information and Media"
+be ys Pay,Financial Services,Financial Services
+Paye‚Äî√Öards,Financial Services,Financial Services
+Orbyt AS,Software Development,"Technology, Information and Media"
+Coinomi,Software Development,"Technology, Information and Media"
+BitRabbit Exchange,IT Services and IT Consulting,Professional Services
+Finsai,Financial Services,Financial Services
+Crypto Finance Group,Financial Services,Financial Services
+digitify,IT Services and IT Consulting,Professional Services
+Fizen.io,IT Services and IT Consulting,Professional Services
+VFX Financial,Financial Services,Financial Services
+PayTech Group,Business Consulting and Services,Professional Services
+BlazarCoin CryptoBank,Financial Services,Financial Services
+VIP360 Payments,Financial Services,Financial Services
+Modulr,Financial Services,Financial Services
+Mako Trading,Financial Services,Financial Services
+Bitwise Europe,Financial Services,Financial Services
+Bibox Exchange,IT Services and IT Consulting,Professional Services
+Asia RWA Workgroup,Professional Organizations,Consumer Services
+FinPoints,IT Services and IT Consulting,Professional Services
+Globebill.com,Financial Services,Financial Services
+Sapphire FX,Financial Services,Financial Services
+UUEX,Financial Services,Financial Services
+Open Consulting Group,Software Development,"Technology, Information and Media"
+Avara,Blockchain Services,"Technology, Information and Media"
+Alpha Group,Financial Services,Financial Services
+First Digital,Financial Services,Financial Services
+MeaWallet,IT Services and IT Consulting,Professional Services
+Baanx Group Ltd,Financial Services,Financial Services
+ThitsaWorks,IT Services and IT Consulting,Professional Services
+Swift Fox Ltd,Financial Services,Financial Services
+BitKan,Financial Services,Financial Services
+NEXTPLS,Financial Services,Financial Services
+FTT Global Ltd,Financial Services,Financial Services
+Global Ledger,Research Services,Professional Services
+TickTrade Systems Inc. - Acquired by smartTrade Technologies,IT Services and IT Consulting,Professional Services
+Centtrip Ltd,Financial Services,Financial Services
+EVIDENT,Financial Services,Financial Services
+Dupoin,"Technology, Information and Internet","Technology, Information and Media"
+Birchford,Information Technology and Services,"Technology, Information and Media"
+SBS,Software Development,"Technology, Information and Media"
+Argentex Group PLC,Financial Services,Financial Services
+SGX FX,Financial Services,Financial Services
+Eau.Gold,Financial Services,Financial Services
+Blockchain.com,"Technology, Information and Internet","Technology, Information and Media"
+Wonga,Financial Services,Financial Services
+bthub,IT Services and IT Consulting,Professional Services
+Bitdeer Group,Software Development,"Technology, Information and Media"
+Cobo,"Technology, Information and Internet","Technology, Information and Media"
+BSO,IT Services and IT Consulting,Professional Services
+Finoa,Financial Services,Financial Services
+Hope.money,Blockchain Services,"Technology, Information and Media"
+Titan Capital,Venture Capital and Private Equity Principals,Financial Services
+PulseRemit,Banking,Financial Services
+CENTUS,Financial Services,Financial Services
+StraitsX,Financial Services,Financial Services
+21.co,Financial Services,Financial Services
+Ker Impact Tech,IT Services and IT Consulting,Professional Services
+Capital Currency Trade,Capital Markets,Financial Services
+Convene,Financial Services,Financial Services
+Kerford Investments,Financial Services,Financial Services
+Bruc Bond,Banking,Financial Services
+Moorwand,Financial Services,Financial Services
+Hex Trust,Financial Services,Financial Services
+dtcpay,Financial Services,Financial Services
+Caladan,"Technology, Information and Internet","Technology, Information and Media"
+Fidel API,Financial Services,Financial Services
+Eurex Clearing,Financial Services,Financial Services
+FP Digital Business Solutions GmbH,IT Services and IT Consulting,Professional Services
+Doo Group,Financial Services,Financial Services
+EQONEX Group [Nasdaq: EQOS],IT Services and IT Consulting,Professional Services
+Koinly,Accounting,Professional Services
+Memo Bank,Banking,Financial Services
+Newborn Town,"Technology, Information and Internet","Technology, Information and Media"
+Tenor Data Solutions,Software Development,"Technology, Information and Media"
+dltledgers,Software Development,"Technology, Information and Media"
+Oakbrook,Financial Services,Financial Services
+ATW (HK) LTD,Financial Services,Financial Services
+Roze Remit,Financial Services,Financial Services
+Primas,IT Services and IT Consulting,Professional Services
+WeLend,Financial Services,Financial Services
+Metawolf,IT Services and IT Consulting,Professional Services
+MoneySQ,Financial Services,Financial Services
+Fasanara Capital,Investment Management,Financial Services
+Liquid Capital Group,Financial Services,Financial Services
+LIBRA,Real Estate,Real Estate and Equipment Rental Services
+UD Blockchain,IT Services and IT Consulting,Professional Services
+G. H. Financials,Financial Services,Financial Services
+ICO booster team,Advertising Services,Professional Services
+OneConnect Financial Technology,IT Services and IT Consulting,Professional Services
+payever,Web3 Payments,"Technology, Information and Media"
+HashKey Group,Crypto Exchange,Financial Services
+Thredd,Crypto Exchange,Financial Services
+Fusang,Crypto Exchange,Financial Services
+TaxBit,Crypto Exchange,Financial Services
+Gemini,Crypto Exchange,Financial Services
+Coinbase,Crypto Exchange,Financial Services
+OKX,Crypto Exchange,Financial Services
+Binance,Crypto Exchange,Financial Services
+DAI,Crypto Exchange,Financial Services
+Paxos,Crypto Exchange,Financial Services
+Bitfinex,Crypto Exchange,Financial Services
+BtcTurk,Crypto Exchange,Financial Services
+Bitvavo,Crypto Exchange,Financial Services
+Crypto.com,Crypto Exchange,Financial Services
+EllipX,Crypto Exchange,Financial Services
+CEX.IO,Crypto Exchange,Financial Services
+One Trading,Crypto Exchange,Financial Services
+Gate.io,Crypto Exchange,Financial Services
+Bitstamp,Crypto Exchange,Financial Services
+Foundry,Crypto Exchange,Financial Services
+Ripple,Crypto Exchange,Financial Services
+Bitget,Crypto Exchange,Financial Services
+Ledger,Crypto Exchange,Financial Services
+Coinmetro,Crypto Exchange,Financial Services
+Deribit,Crypto Exchange,Financial Services
+Cardano,Crypto Exchange,Financial Services
+Bybit,Crypto Exchange,Financial Services
+BitMEX,Crypto Exchange,Financial Services
+Coins.ph,Crypto Exchange,Financial Services
+Luno,Crypto Exchange,Financial Services
+Adyen,Web3 Payments,Financial Services
+ANNA,Banking,Financial Services
+Anzen,Banking,Financial Services
+Arch,Research,Professional Services
+AvidXchange,Crypto Exchange,Financial Services
+Bond,Pension Funds,Financial Services
+Brex,Libraries,"Technology, Information and Media"
+Capchase,Crypto Exchange,Financial Services
+Cash App,RegTech Platforms,Financial Services
+Copper,Computer Games,"Technology, Information and Media"
+Enfuce,Insurance,Financial Services
+Gr4vy,Photography,Professional Services
+Highnote,Design,Professional Services
+Jeeves,Pet Services,Consumer Services
+Lincoln Savings Bank,Online Gaming Platforms,"Technology, Information and Media"
+Loop,Blogs,"Technology, Information and Media"
+MoonPay,Web3 Payments,Financial Services
+Nayax,Web3 Payments,Financial Services
+OpenPayd,Web3 Payments,Financial Services
+Orum,Web3 Payments,Financial Services
+Paddle,Crypto Wallet,Financial Services
+Papaya Global,Layer 2 Blockchain,"Technology, Information and Media"
+PayJoy,Web3 Payments,Financial Services
+Rapyd,Web3 Payments,Financial Services
+Razorpay,Web3 Payments,Financial Services
+Relay,Web3 Payments,Financial Services
+Tonik Bank,Think Tanks,Professional Services
+BNY Mellon,Web3 Payments,Financial Services
+Chainalysis,Blockchain Analytics,Financial Services
+Chainalysis,Blockchain Analytics,"Technology, Information and Media"
+HashKey,Photography,Professional Services
+PayPal,Crypto Wallet,Financial Services
+Visa,Web3 Payments,Financial Services
+Starling Bank,Banking,Financial Services
+Monzo,Banking,Financial Services
+Curve,Banking,Financial Services

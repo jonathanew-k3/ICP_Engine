@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Full Client Config Schema",
+  "type": "object",
+  "properties": {
+    "client_name": { "type": "string" },
+    "weights": {
+      "type": "object",
+      "properties": {
+        "reference_company": { "type": "number" },
+        "fuzzy_match": { "type": "number" },
+        "title_match": { "type": "number" },
+        "sector_match": { "type": "number" }
+      },
+      "required": ["reference_company", "fuzzy_match", "title_match", "sector_match"]
+    },
+    "fuzzy_threshold": { "type": "number" },
+    "confidence_bands": {
+      "type": "object",
+      "properties": {
+        "high": { "type": "number" },
+        "medium": { "type": "number" }
+      },
+      "required": ["high", "medium"]
+    },
+    "exclusion_criteria": {
+      "type": "object",
+      "properties": {
+        "confidence_levels": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["confidence_levels"]
+    },
+    "geo_scoring": {
+      "type": "object",
+      "properties": {
+        "preferred": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "penalized": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["preferred", "penalized"]
+    },
+    "job_title_categories": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "sector_keywords": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "sector_negatives": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "blacklist_terms": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "priority_industries": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "reference_companies_file": { "type": "string" },
+    "role_seniority": {
+      "type": "object",
+      "properties": {
+        "senior": { "type": "array", "items": { "type": "string" } },
+        "mid": { "type": "array", "items": { "type": "string" } },
+        "junior": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["senior", "mid", "junior"]
+    },
+    "excluded_companies": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "client_name", "weights", "fuzzy_threshold", "confidence_bands",
+    "exclusion_criteria", "geo_scoring", "job_title_categories",
+    "sector_keywords", "sector_negatives", "blacklist_terms",
+    "priority_industries", "reference_companies_file",
+    "role_seniority", "excluded_companies"
+  ],
+  "additionalProperties": false
+}

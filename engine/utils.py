@@ -3,12 +3,24 @@ import pandas as pd
 import os
 
 def load_config(config_name):
+    import jsonschema  # ensure this is installed in your environment
+    from jsonschema import validate
+
     base_path = os.path.join("configs", config_name)
-    with open(os.path.join(base_path, "company_map.json")) as f:
-        company_map = json.load(f)["company_group_map"]
-    with open(os.path.join(base_path, "settings.json")) as f:
-        settings = json.load(f)
-    return company_map, settings
+    config_path = os.path.join(base_path, "config.json")
+    schema_path = os.path.join("configs", "shared", "validation_schema.json")
+
+    # Load config
+    with open(config_path) as f:
+        config = json.load(f)
+
+    # Load and validate against schema
+    with open(schema_path) as f:
+        schema = json.load(f)
+
+    validate(instance=config, schema=schema)
+
+    return config
 
 import re
 
@@ -31,9 +43,11 @@ def normalize_company(name):
     name = re.sub(r'\s+', ' ', name).strip()
     return name
 
-def match_company(name, company_map):
-    return company_map.get(name, name)
-
+def get_company_group_name(company_name, company_map):
+    if not isinstance(company_name, str):
+        return ""
+    return company_map.get(company_name.strip().lower(), company_name.strip().lower())
+    
 def load_reference_companies(path):
     df = pd.read_csv(path)
     df['normalized_company'] = df['Company'].str.lower().str.strip()

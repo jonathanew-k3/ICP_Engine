@@ -1,27 +1,77 @@
-# Lead Scoring Engine
+# ICP Engine – Lead Scoring Framework
 
-A modular and configurable lead scoring engine designed to help identify high-potential leads using multiple signals like company match, job title, and sector fit.
+The ICP Engine is a modular Python system for scoring and prioritizing leads based on configurable criteria such as reference company match, industry alignment, title relevance, and geographic focus.
+
+## 🔧 Features
+
+- A–E match type banding for clean prioritization
+- Modular, client-specific config system
+- Clean scored outputs with consistent fields
+- Integration-ready design for Clay, Zapier, HubSpot, etc.
+- Pre-release tagging and changelog versioning
+- Easy-to-rebuild virtual environments
+
+## 📁 Project Structure
+
+```
+configs/               # Per-client settings and reference files
+data/                  # Raw lead input files (e.g. Source_Data.csv)
+engine/                # Core scoring logic
+shared/                # Shared resources (e.g. company_map.json)
+output_data/           # Timestamped scored outputs
+docs/                  # Optional: stream planning and roadmap
+```
+
+## ▶️ Getting Started
+
+### 1. Set up the environment
+
+```bash
+./setup_env.sh
+```
+
+This creates a clean Python virtual environment and installs the required packages.
+
+### 2. Score leads
+
+```bash
+python3 -m engine.runner --config konnect_insights
+```
+
+Optional flags:
+- `--input`: Specify an input CSV path
+- `--limit`: Limit the number of rows for testing
+
+### 3. Output
+
+- Clean scored file will be saved to:
+  ```
+  output_data/{client}_{timestamp}/scored_output_clean.csv
+  ```
+
+## 🧪 Match Types (A–E)
+
+| Type | Description                     |
+|------|---------------------------------|
+| A    | Reference match (fuzzy or exact) + title match |
+| B    | Industry match (from priority list) + title match |
+| C    | Keyword-inferred sector + title match |
+| D    | Title match only                |
+| E    | Weak/unmatched leads            |
+
+## 📝 Versioning
+
+- Pre-releases follow this format: `vYYYY.MM.DD-v0.X`
+- See [`CHANGELOG.md`](./CHANGELOG.md) for details
+
+## 🚧 Future Improvements
+
+- GUI for config editing and output review
+- Integrations with CRMs and automation tools
+- AI-assisted ICP targeting and list generation
 
 ---
 
-## 🚀 Features
+## 🤝 Contributing
 
-✅ Job title scoring and multi-source sector classification (reference → industry map → keyword fallback)  
-✅ Sector relevance prioritized via client-defined priority sectors
-
-## 🛠 Configuration Layers (per client)
-
-Each client has their own config directory under `configs/clients/<client_name>`, supporting:
-
-- `settings.json`: scoring weights, keyword lists, job title categories, geo preferences, etc.
-- `priority_sectors.json`: maps which sectors are prioritized in scoring.
-- `reference_companies.csv`: a curated list of matched companies and sectors.
-
-Shared resources across clients:
-
-- `industry_sector_map.csv`: maps raw industry labels to normalized sectors.
-- `industry_synonyms.json`: optional synonym support for mapping industry variants.
-
----
-
-## 🗂 Folder Structure
+Coming soon: contributor guidelines, CI scripts, and documentation on how to add new clients or sectors.

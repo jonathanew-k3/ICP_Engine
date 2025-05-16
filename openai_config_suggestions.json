@@ -1,0 +1,63 @@
+{
+  "priority_industries": [
+    "Animation",
+    "Computer Games",
+    "Outsourcing/Offshoring"
+  ],
+  "sector_keywords": {
+    "Animation": [
+      "3D mobile gaming",
+      "low poly games",
+      "AI native"
+    ],
+    "Computer Games": [
+      "Major studios",
+      "Mid sized studios",
+      "Small studios"
+    ],
+    "Outsourcing/Offshoring": [
+      "Outsourcing agencies",
+      "3D outsourcing agencies",
+      "ecommerce products"
+    ]
+  },
+  "blacklist_terms": [
+    "2D only",
+    "internship"
+  ],
+  "job_title_categories": {
+    "Major Studios": [
+      "VP technology",
+      "Art director",
+      "Technology partnerships"
+    ],
+    "Mid Sized Studios": [
+      "Creative director",
+      "CTO",
+      "Head of art"
+    ],
+    "Small Studios": [
+      "CEO",
+      "Art Director",
+      "Head of 3D"
+    ],
+    "Outsourcing Agencies": [
+      "CEO",
+      "Art Director",
+      "Head of 3D"
+    ]
+  },
+  "role_seniority": {
+    "senior": [
+      "CEO",
+      "CTO",
+      "VP technology",
+      "Art director",
+      "Technology partnerships",
+      "Creative director",
+      "Head of art"
+    ],
+    "mid": [],
+    "junior": []
+  }
+}

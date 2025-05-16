@@ -35,3 +35,8 @@ Scored_Leads.csv
 *.bak
 *.tmp
 *~
+
+google-sheets-service-account.json
+*.xlsx
+*.key.json
+*.credentials.json

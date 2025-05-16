@@ -1,0 +1,93 @@
+{
+  "sector_keywords": {
+    "Animation": [
+      "3D mobile gaming",
+      "low poly games",
+      "AI native"
+    ],
+    "Computer Games": [
+      "Major studios",
+      "Mid sized studios",
+      "Small studios"
+    ],
+    "Outsourcing/Offshoring": [
+      "Outsourcing agencies",
+      "3D outsourcing agencies",
+      "ecommerce products"
+    ]
+  },
+  "job_title_categories": {
+    "Major Studios": [
+      "VP technology",
+      "Art director",
+      "Technology partnerships"
+    ],
+    "Mid Sized Studios": [
+      "Creative director",
+      "CTO",
+      "Head of art"
+    ],
+    "Small Studios": [
+      "CEO",
+      "Art Director",
+      "Head of 3D"
+    ],
+    "Outsourcing Agencies": [
+      "CEO",
+      "Art Director",
+      "Head of 3D"
+    ]
+  },
+  "blacklist_terms": [
+    "2D only",
+    "internship"
+  ],
+  "priority_industries": [
+    "Animation",
+    "Computer Games",
+    "Outsourcing/Offshoring"
+  ],
+  "role_seniority": {
+    "senior": [
+      "CEO",
+      "CTO",
+      "VP technology",
+      "Art director",
+      "Technology partnerships",
+      "Creative director",
+      "Head of art"
+    ],
+    "mid": [],
+    "junior": []
+  },
+  "excluded_companies": [],
+  "sector_negatives": {},
+  "client_name": "CSM",
+  "weights": {
+    "reference_company": 10,
+    "fuzzy_match": 5,
+    "title_match": 5,
+    "sector_match": 3
+  },
+  "fuzzy_threshold": 95.5,
+  "confidence_bands": {
+    "high": 12,
+    "medium": 7
+  },
+  "exclusion_criteria": {
+    "confidence_levels": [
+      "Low"
+    ]
+  },
+  "geo_scoring": {
+    "preferred": [
+      "united kingdom",
+      "germany"
+    ],
+    "penalized": [
+      "china",
+      "india"
+    ]
+  },
+  "reference_companies_file": "Reference_Companies.csv"
+}

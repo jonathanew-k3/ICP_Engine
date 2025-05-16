@@ -2,15 +2,17 @@ import argparse
 import os
 import pandas as pd
 from datetime import datetime
-from .utils import load_config, load_reference_companies
+from .utils import load_config, load_reference_companies, get_company_group_name
 from .engine import score_leads
 
 def main(config_name, input_file=None, limit=None):
-    company_map, settings = load_config(config_name)
+    settings = load_config(config_name)
+    shared_map_path = os.path.join("configs", "shared", "company_map.json")
+    company_map = pd.read_json(shared_map_path)
 
     data_path = os.path.join("data", config_name)
     leads_path = input_file if input_file else os.path.join(data_path, "Source_Data.csv")
-    ref_path = os.path.join(data_path, "Reference_Companies.csv")
+    ref_path = os.path.join("configs", config_name, "Reference_Companies.csv")
 
     leads_df = pd.read_csv(leads_path)
     if limit:
@@ -18,6 +20,11 @@ def main(config_name, input_file=None, limit=None):
     reference_df = load_reference_companies(ref_path)
 
     scored_df = score_leads(leads_df, reference_df, company_map, settings)
+
+    # ✅ Add Company Group Name inside main
+    scored_df.loc[:, "Company Group Name"] = scored_df["normalized_company"].apply(
+        lambda x: get_company_group_name(x, company_map)
+    )
 
     total_leads = len(scored_df)
     title_matches = scored_df["title_score"].gt(0).sum()
